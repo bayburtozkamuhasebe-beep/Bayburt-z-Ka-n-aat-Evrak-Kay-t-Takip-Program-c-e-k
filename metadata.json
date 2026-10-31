@@ -1,0 +1,6 @@
+{
+  "name": "Bayburt Öz-Ka İnşaat Evrak Kayıt Takip Programı",
+  "description": "Bayburt Öz-Ka İnşaat, Selahattin Kaldırım İnşaat, Arnavutköy ve Mamak ortaklıkları için şık, animasyonlu ve performanslı evrak kayıt takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
